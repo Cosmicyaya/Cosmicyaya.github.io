@@ -1,11 +1,11 @@
 # Site settings
 author: Ryan Hollins
-title: 
+title: One method at a time...or variable?...boolean?
 header-img: img/home-bg.png
 email: ballbaroi@gmail.com
 copyright_name: Ryan Hollins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  this subtitle is very short.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Cosmicyaya
